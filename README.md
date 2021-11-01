@@ -2,7 +2,7 @@
 
 ## Introduction
 ### NewBie Developer
-### Want to be Android Developer 
+### Want to be Android Developer and Embedded OS
 
 ## Repository
  - [Meachine Learning Example](https://github.com/KanuKim97/Tensor_flow)
