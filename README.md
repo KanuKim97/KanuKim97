@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Introduction
-### NewBie Developer who want to be DevOps
+### NewBie Developer
 ### Want to be Android Developer 
 ### And Python Lover
 
