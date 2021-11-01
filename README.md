@@ -4,9 +4,20 @@
 ### NewBie Developer
 ### Want to be Android Developer 
 
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanuKim97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Repository
+ - [Meachine Learning Example](https://github.com/KanuKim97/Tensor_flow)
+ - [Micro Service Architecture](https://github.com/KanuKim97/microService)
+ - [Data Analysis](https://github.com/KanuKim97/Data_Analysis)
+ - [Kotlin Toy Project Application](https://github.com/KanuKim97/CycleApp)
 
 ## Contribute Guideline
+```
+  1. Fork Repository 
+  2. Git clone forked Repository 
+  3. Correction Code and git add > git commit > gir push
+  4. Pull Request 
+  5. Write Pull Request contents
+```
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanuKim97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
