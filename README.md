@@ -14,7 +14,7 @@
 ```
   1. Fork Repository 
   2. Git clone forked Repository 
-  3. Correction Code and git add > git commit > gir push
+  3. Correction Code and git add > git commit > git push
   4. Pull Request 
   5. Write Pull Request contents
 ```
