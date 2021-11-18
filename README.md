@@ -11,6 +11,9 @@
  - [Kotlin Toy Project Application](https://github.com/KanuKim97/CycleApp)
  - [What's Eat Application](https://github.com/KanuKim97/whats_eat)
 
+## Velog
+ - [KanuKim97's Velog.io](https://velog.io/@kanu_kim_97)
+
 ## Contribute Guideline
 ```
   1. Fork Repository 
