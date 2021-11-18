@@ -9,6 +9,7 @@
  - [Micro Service Architecture](https://github.com/KanuKim97/microService)
  - [Data Analysis](https://github.com/KanuKim97/Data_Analysis)
  - [Kotlin Toy Project Application](https://github.com/KanuKim97/CycleApp)
+ - [What's Eat Application](https://github.com/KanuKim97/whats_eat)
 
 ## Contribute Guideline
 ```
