@@ -1,4 +1,4 @@
-### Hi there 👋
+# KanuKim97's Github
 
 ## Introduction
 ### NewBie Developer
