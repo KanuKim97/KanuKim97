@@ -13,6 +13,7 @@
  - [Data Analysis](https://github.com/KanuKim97/Data_Analysis)
  - [Kotlin Toy Project Application](https://github.com/KanuKim97/CycleApp)
  - [What's Eat Application](https://github.com/KanuKim97/whats_eat)
+ - [Jetpack-Compose](https://github.com/KanuKim97/Kotlin_Compose)
 
 ## Tech Stacks
 
