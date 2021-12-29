@@ -1,5 +1,5 @@
 # KanuKim97's Github
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKanuKim97)](https://hits.seeyoufarm.com) 
 ## Introduction
 ### NewBie Developer
 ### Want to be Android Dev and Embedded System Dev
