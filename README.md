@@ -2,18 +2,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKanuKim97)](https://hits.seeyoufarm.com) 
 ### NewBie Android Developer
 
-
-## Git Status
-![KanuKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanuKim97&show_icons=true&theme=radical)
-
-## Repository
- - [Meachine Learning Example](https://github.com/KanuKim97/Tensor_flow)
- - [Micro Service Architecture](https://github.com/KanuKim97/microService)
- - [Data Analysis](https://github.com/KanuKim97/Data_Analysis)
- - [Kotlin Toy Project Application](https://github.com/KanuKim97/CycleApp)
- - [What's Eat Application](https://github.com/KanuKim97/whats_eat)
- - [Jetpack-Compose](https://github.com/KanuKim97/Kotlin_Compose)
-
 ## Tech Stacks
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
@@ -29,17 +17,5 @@
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanuKim97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Contribute Guideline
-```
-  1. Fork Repository 
-  2. Git clone forked Repository 
-  3. Correction Code and git add > git commit > git push
-  4. Pull Request 
-  5. Write Pull Request contents
-```
-
 ## Others
  - [KanuKim97's Velog.io](https://velog.io/@kanu_kim_97)
- - [KanuKim97's Github.io](https://KanuKim97.github.io)
- 
