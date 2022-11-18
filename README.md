@@ -10,6 +10,3 @@
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=ECEFF1">
 <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-
-## Others
- - [KanuKim97's Velog.io](https://velog.io/@kanu_kim_97)
