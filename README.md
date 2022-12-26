@@ -1,5 +1,4 @@
 <div align = "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KanuKim97 Gitbub&fontSize=90" />
 
 ## ✋ Hello There? I'm KanuKim97
  I'm Kanukim97 who wants to be a android developer
